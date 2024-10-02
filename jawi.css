@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'JawiTitr';
+    src: url('fonts/JawiTitr-Bold.otf') format('truetype');
+}
+@font-face {
+    font-family: 'JawiTitrGrunge';
+    src: url('fonts/JawiTitrGrunge-Bold.otf') format('truetype');
+}
+@font-face{
+    font-family: 'JawiDotted';
+    src: url('fonts/JawiDotted-Regular.otf') format('truetype');
+}
